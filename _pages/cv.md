@@ -11,23 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S in SCSS, BUPT, 2028 (expected)
+* B.S. in SCSS, BUPT, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Spring 2025: Research Assitant
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* Fall 2035: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Summer 2045: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 5090 different slack teams
